@@ -153,8 +153,8 @@ Rscript script/BayPass_plot.R
 
 ## Expected results
 
-![](output/BayPass_plot.coverage.pdf)
-![](BayPass_plot.NO3-N.pdf)
+![](graphs/BayPass_plot.coverage.png)
+![](graphs/BayPass_plot.NO3-N.png)
 
 
 ## License
