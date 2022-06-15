@@ -4,7 +4,7 @@
 
 This repository is made for eBook entitled “Bioinformatics Recipes for Plant Genomics: Data, Code, and Workflows” in [Bio-101](https://cn.bio-protocol.org/bio101/default.aspx)
 
-## Overview of an example workflow: Fastq data quality checking
+## Overview of an example workflow
 
 This is an example workflow to analyze associations of environmental variables with SNP data using BayPass. 
 
